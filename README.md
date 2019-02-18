@@ -1,3 +1,3 @@
 # Image-classifier
-deep learning model for image classification
-some of the changes you wanted in the review were already in my program please check again and let me know.
+deep learning model for flower classification using VGG or Alexnet models.
+
